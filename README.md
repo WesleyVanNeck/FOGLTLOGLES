@@ -2,7 +2,7 @@
   FOGLTLOGLES
 </h1>
 
-**Fast OpenGL to OpenGL ES translation layer** 
+**Fast OpenGL to OpenGL ES translation layer**  
 
 A proof-of-concept project enabling Minecraft built for OpenGL 3.2 (desktop) to run on OpenGL ES 3.2 platforms—such as Android or embedded systems.
 
