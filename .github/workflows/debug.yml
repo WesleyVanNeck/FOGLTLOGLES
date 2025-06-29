@@ -16,10 +16,10 @@ jobs:
       matrix:
         include:
           - name: 64-bit
-            arch-double: arm64-v8a
+            arch-double: arm64-v8a, x86_64
 
           - name: 32-bit
-            arch-double: armeabi-v7a
+            arch-double: armeabi-v7a, x86
     
     runs-on:
       ubuntu-latest
